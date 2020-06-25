@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C749579C-DA6F-4EBE-AFBC-A56B3F027ECE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="gtkproject/Calculadora.cs">
+    <Files>
+      <File FileName="gtkproject/Calculadora.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP7" expanded="True">
+            <Node name="gtkproject" expanded="True">
+              <Node name="Calculadora.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.gtkproject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
